@@ -1,4 +1,4 @@
 # Kshitiz-code
 it is Kshitiz website
 <br>
-Author-Chitransh Kumar 
+Author-Chitransh Choubey
